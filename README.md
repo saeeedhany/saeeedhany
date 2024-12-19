@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm **Saeed**, a **Junior Front-End Developer** pa
 - **HTML** 🧱
 - **CSS** 🎨
 - **JavaScript** ⚡
-- **Automating with Bash** 🛠️
+  
+- **Automate things with Bash** 🛠️
 
 But I'm not stopping here! 🚀 My goal is to become a **Full-Stack Developer**, diving into backend technologies and mastering the art of creating seamless web applications.
 
