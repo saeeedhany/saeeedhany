@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm <!-- Your Name --> </h1>
+<h1 align="center">Hi there 👋, I'm Saeed </h1>
 <h3 align="center">A curious mind diving into Computer Science, Web Development, and Operating Systems 🧠💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<!-- your github username -->&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saeeedhany&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -58,11 +58,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- your github username -->&show_icons=true&theme=radical" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<!-- your github username -->&theme=radical" alt="streak stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- your github username -->&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -71,10 +75,4 @@
 <p>
   <a href="mailto:<!-- your email -->"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/<!-- your linkedin -->"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <!-- Add other links if you have (Twitter, blog, etc.) -->
 </p>
-
----
-
-<!-- Optional: Snake GitHub Contribution Graph -->
-<!-- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg) -->
