@@ -1,39 +1,80 @@
-# Hi there! 👋
+<h1 align="center">Hi there 👋, I'm <!-- Your Name --> </h1>
+<h3 align="center">A curious mind diving into Computer Science, Web Development, and Operating Systems 🧠💻</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/f2eEmGGO6MaaG4hCHE/giphy.gif?cid=6c09b952tqrufi8wcstekuyo2yjnb6bm2b0adq3aefrog2xv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Anime Girl Saying Hi" width="200" />
+  <img src="https://komarev.com/ghpvc/?username=<!-- your github username -->&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-Welcome to my GitHub profile! I'm **Saeed**, a **Junior Front-End Developer** passionate about crafting beautiful and responsive websites. Currently, I have solid foundations in:
+---
 
-- **HTML** 🧱
-- **CSS** 🎨
-- **JavaScript** ⚡
-  
-- **Automate things with Bash** 🛠️
+### 🧭 My Philosophy
+> "I don’t learn for the market—I learn for the *science*. Technology is not just a job, it’s a way to understand the world."
 
-But I'm not stopping here! 🚀 My goal is to become a **Full-Stack Developer**, diving into backend technologies and mastering the art of creating seamless web applications.
+---
 
-## 🌟 What I Love to Do
+### 💼 My Current Focus: Full Stack Web Development
+- 🧱 Frontend: **HTML | CSS | JavaScript | Tailwind | React**
+- ⚙️ Backend: **Node.js | Express | MongoDB | REST APIs**
+- 🧩 Code Quality & Architecture: **Clean Code | MVC | Git | Testing**
 
-- Building responsive and user-friendly UIs 🌐
-- Learning new technologies and improving my skills 📚
-- Collaborating with others to bring ideas to life 🤝
-- Exploring Linux systems and customization 🐧 (I use **Arch**, by the way!)
-- Ricing my Linux desktop for a sleek and personalized look 🎨
+---
 
+### 🧰 Operating Systems: My Passion
+- Daily Linux user 🐧, digging into:
+  `init systems`, `systemd`, `runit`, `bash scripting`, `vim`, `CLI tools`
+- Learning **C** to understand systems at the low level.
+
+---
+
+### 🧠 Fields I’m exploring in Computer Science:
+- Computer Architecture
+- Operating Systems Internals
+- Compilers & Parsers
+- Networking & Protocols
+- Algorithms & Data Structures
+- Distributed Systems & Low-Level Computing
+
+---
+
+### 🚀 Current Projects:
+- CLI-based productivity and educational tools
+- Writing technical content on the “hidden layers” of Linux and software development
+
+---
+
+### 🛠️ Tools & Technologies I Use:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Geeky GIF" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<!-- your github username -->&show_icons=true&theme=radical" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<!-- your github username -->&theme=radical" alt="streak stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- your github username -->&layout=compact&theme=radical" alt="top langs"/>
 </p>
 
-## 🎯 Next Steps
+---
 
-I am currently exploring backend development and database management. Stay tuned for updates on my journey to becoming a Full-Stack Developer!
-
-## 📫 Let's Connect
-
-Feel free to reach out if you'd like to collaborate, share ideas, or just chat about coding, Linux, and anime! 😄
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Let's Connect" width="300" />
+### 📫 How to reach me
+<p>
+  <a href="mailto:<!-- your email -->"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/<!-- your linkedin -->"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <!-- Add other links if you have (Twitter, blog, etc.) -->
 </p>
+
+---
+
+<!-- Optional: Snake GitHub Contribution Graph -->
+<!-- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg) -->
