@@ -14,7 +14,7 @@
 
 ### 💼 My Current Focus: Full Stack Web Development
 - 🧱 Frontend: **HTML | CSS | JavaScript | Tailwind | React**
-- ⚙️ Backend: **Node.js | Express | MongoDB | REST APIs**
+- ⚙️ Backend _*still learning*_: **Node.js | Express | MongoDB | REST APIs**
 - 🧩 Code Quality & Architecture: **Clean Code | MVC | Git | Testing**
 
 ---
