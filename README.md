@@ -27,7 +27,7 @@ and making Linux do exactly what I need it to.
 
 Feel free to reach out for collaboration or just to talk about tech and systems.
 
-**Email:** alsaeedalbbasi0ny@gmail.com  
+**Email:** alsaeedalbasi0ny@gmail.com  
 
 ---
 
