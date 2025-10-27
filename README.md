@@ -32,5 +32,5 @@ Feel free to reach out for collaboration or just to talk about tech and systems.
 ---
 
 <p align="center">
-  <i>"There is nothing to say" - me</i>
+  <i>"There is nothing to say " - me</i>
 </p>
