@@ -1,4 +1,4 @@
-hi, i’m saeed (aka **thecoolestone** :D) — a digital crafter who enjoys building things from the ground up.
+hi, i’m saeed (aka **[thecoolestone](https://saeeedhany.github.io/thecoolestone/)** :D) — a digital crafter who enjoys building things from the ground up.
 
 i love understanding how systems work at their deepest levels, and i spend a lot of time studying and implementing low-level concepts. sometimes i create tools and scripts to enhance my experience on my machine or just for the joy of crafting something useful.
 
