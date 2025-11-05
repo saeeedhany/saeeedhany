@@ -1,38 +1,23 @@
-<h1 align="center">Hey, I'm Saeed</h1>
-<h3 align="center">Web Developer | Linux Enthusiast | System Thinker</h3>
+hi, i’m saeed (aka **thecoolestone** :D) — a digital crafter who enjoys building things from the ground up.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saeeedhany&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
+i love understanding how systems work at their deepest levels, and i spend a lot of time studying and implementing low-level concepts. sometimes i create tools and scripts to enhance my experience on my machine or just for the joy of crafting something useful.
 
-<p align="center">
-  A developer passionate about building efficient web solutions and exploring how systems work.<br/>
-  I believe in writing clean code, automating workflows, and understanding technology from the ground up.
-</p>
+currently learning & exploring
+- computer architectures and operating systems (and occasionally building one myself)
+- working across different programming paradigms — though i enjoy scripting languages the most for their flexibility
+- designing efficient, interactive, and visually appealing websites  
+- search engine optimization (SEO) — i can make your site perform and look good
 
-## Whoami
+side interests
+- linux (arch btw) — tweaking, customizing, and improving my setup is my idea of fun
+- minimalism in design and development
+- text-based tools, especially vim and terminal environments
 
-```bash
-$ whoami
-saeed
-
-$ cat about.txt
-Just a curious soul exploring how computers really work.
-I love diving into system internals, optimizing web performance,
-and making Linux do exactly what I need it to.
-```
-
-
-## Connect
-
-Feel free to reach out for collaboration or just to talk about tech and systems.
-
-**Email:** alsaeedalbasi0ny@gmail.com
-
-**Website:** [thecoolestone](https://saeeedhany.github.io/thecoolestone/)
+long-term goals
+- build a fully working operating system from scratch
+- contribute to open-source projects related to linux and low-level systems
+- make tools that improve developers' daily workflows
 
 ---
 
-<p align="center">
-  <i>"There is nothing to say" - me</i>
-</p>
+> “i don’t just use computers — i like to understand them.”
