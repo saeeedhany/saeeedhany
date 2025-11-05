@@ -20,4 +20,4 @@ long-term goals :
 
 ---
 
-> “i don’t just use computers — i like to understand them.”
+> “i don’t just use computers — i like to understand them. (or at least i pseudo that xD)”
