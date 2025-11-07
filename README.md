@@ -2,7 +2,7 @@ hi, i’m saeed (aka **[thecoolestone](https://saeeedhany.github.io/thecooleston
 
 i love understanding how systems work at their deepest levels, and i spend a lot of time studying and implementing low-level concepts. sometimes i create tools and scripts to enhance my experience on my machine or just for the joy of crafting something useful.
 
-currently learning & exploring :
+fields i’m into :
 - computer architectures and operating systems (and occasionally building one myself)
 - working across different programming paradigms — though i enjoy scripting languages the most for their flexibility
 - designing efficient, interactive, and visually appealing websites  
