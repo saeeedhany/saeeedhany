@@ -1,23 +1,21 @@
-hi, i’m saeed (aka **[thecoolestone](https://saeeedhany.github.io/thecoolestone/)** :D) — a digital crafter who enjoys building things from the ground up.
+Hi, I'm Saeed (aka **[thecoolestone](https://saeeedhany.github.io/thecoolestone/)**) — a digital crafter who builds things from the ground up.
 
-i love understanding how systems work at their deepest levels, and i spend a lot of time studying and implementing low-level concepts. sometimes i create tools and scripts to enhance my experience on my machine or just for the joy of crafting something useful.
+I love understanding how systems work at their deepest levels, studying low-level concepts, and creating tools that enhance workflows or simply bring joy through craftsmanship.
 
-fields i’m into :
-- computer architectures and operating systems (and occasionally building one myself)
-- working across different programming paradigms — though i enjoy scripting languages the most for their flexibility
-- designing efficient, interactive, and visually appealing websites  
-- search engine optimization (SEO) — i can make your site perform and look good
+## What I'm Into
 
-side interests :
-- linux (arch btw) — tweaking, customizing, and improving my setup is my idea of fun
-- minimalism in design and development
-- text-based tools, especially vim and terminal environments
+**Core Interests**
+* Computer architectures and operating systems
+* Building systems from scratch
+* Multi-paradigm programming with a focus on scripting languages
+* Efficient, interactive web design with SEO fundamentals
 
-long-term goals :
-- build a fully working operating system from scratch
-- contribute to open-source projects related to linux and low-level systems
-- make tools that improve developers' daily workflows
+**Side Pursuits**
+* Linux customization and system optimization (Arch btw)
+* Minimalist design and development
 
----
+## Long-Term Goals
 
-> “i don’t just use computers — i like to understand them. (or at least i pseudo that xD)”
+* Build a fully working operating system from scratch
+* Contribute to open-source projects in Linux and low-level systems
+* Create tools that improve developers' daily workflows
