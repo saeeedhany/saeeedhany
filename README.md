@@ -17,7 +17,7 @@ I love understanding how systems work at their deepest levels, studying low-leve
 * Efficient, interactive web design with SEO fundamentals
 
 **Side Pursuits**
-* Linux customization and system optimization (Arch btw)
+* Linux customization and system optimization
 * Minimalist design and development
 
 ## Long-Term Goals
