@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS)
+
+</div>
+
 Hi, I'm **Saeed** (aka **[thecoolestone](https://saeeedhany.github.io/thecoolestone/)**) — a digital crafter who builds things from the ground up.
 
 I love understanding how systems work at their deepest levels, studying low-level concepts, and creating tools that enhance workflows or simply bring joy through craftsmanship.
