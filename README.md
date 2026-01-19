@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Digital+Crafter;Web+Developer;Systems-Oriented+Thinker;Building+From+First+Principles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=458588&center=true&vCenter=true&width=600&lines=Digital+Crafter;Web+Developer;Systems-Oriented+Thinker;Building+From+First+Principles" />
 </p>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS&color=458588)
 
 </div>
 
