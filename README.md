@@ -14,6 +14,8 @@ Hi, I'm **Saeed** (aka **[thecoolestone](https://saeeedhany.github.io/thecoolest
 
 I love understanding how systems work at their deepest levels, studying low-level concepts, and creating tools that enhance workflows or simply bring joy through craftsmanship.
 
+I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
+
 ## What I'm Into
 
 **Core Interests**
