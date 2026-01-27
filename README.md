@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS&color=458588)
 
 </div>
@@ -14,13 +14,19 @@ Hi, I'm **Saeed** (aka **[thecoolestone](https://saeeedhany.github.io/thecoolest
 
 I love understanding how systems work at their deepest levels, studying low-level concepts, and creating tools that enhance workflows or simply bring joy through craftsmanship.
 
+I've built terminal utilities like :
+- **[deasy](https://github.com/saeeedhany/deasy)** *A straightforward wrapper around yt-dlp*
+- **[yduts](https://github.com/saeeedhany/yduts)** *A minimal, distraction-free CLI study timer*
+- **[Unity-Cli-Manager](https://github.com/saeeedhany/Unity-Cli-Manager)** *A command-line interface for managing Unity projects*
+
+to speed up everyday command-line work.
+
 I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 
 ## What I'm Into
 
 **Core Interests**
 * Computer architectures and operating systems
-* Building systems from scratch
 * Multi-paradigm programming with a focus on scripting languages
 * Efficient, interactive web design with SEO fundamentals
 
@@ -30,6 +36,5 @@ I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 
 ## Long-Term Goals
 
-* Build a fully working operating system from scratch
 * Contribute to open-source projects in Linux and low-level systems
 * Create tools that improve developers' daily workflows
