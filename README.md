@@ -32,10 +32,9 @@ I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 * Efficient, interactive web design with SEO fundamentals
 
 **Side Pursuits**
-* Linux customization and system optimization
-* Minimalist design and development
+* Linux **[customization](https://github.com/saeeedhany/ThePrimeSetup.conf)** and system optimization
+* Making a hobby Operating System called **[potatOS](https://github.com/saeeedhany/potatOS)**, And **[Documenting](https://saeeedhany.github.io/potatos.org/)** it.
 
 ## Long-Term Goals
 
 * Contribute to open-source projects in Linux and low-level systems
-* Create tools that improve developers' daily workflows
