@@ -33,7 +33,7 @@ I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 
 **Side Pursuits**
 * Linux **[customization](https://github.com/saeeedhany/ThePrimeSetup.conf)** and system optimization
-* Making a hobby Operating System called **[potatOS](https://github.com/saeeedhany/potatOS)**, And **[Documenting](https://saeeedhany.github.io/potatos.org/)** it.
+* Making a hobby Operating System named **[potatOS](https://github.com/saeeedhany/potatOS)**, And **[Documenting](https://saeeedhany.github.io/potatos.org/)** it.
 
 ## Long-Term Goals
 
