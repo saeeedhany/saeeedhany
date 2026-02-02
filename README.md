@@ -37,4 +37,4 @@ I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 
 ## Long-Term Goals
 
-* Contribute to open-source projects in Linux and low-level systems
+* Contribute to open-source projects like **[Linux](https://github.com/torvalds/linux)** And **[Vim](https://github.com/vim)**.
