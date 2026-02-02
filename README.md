@@ -6,8 +6,8 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS&color=00262C)
-![GitHub Stars](https://img.shields.io/github/stars/saeeedhany?style=flat&logo=github&label=Total%20Stars&color=00262C)
+![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS&color=458588)
+![GitHub Stars](https://img.shields.io/github/stars/saeeedhany?style=flat&logo=github&label=Total%20Stars&color=458588)
 
 
 </div>
