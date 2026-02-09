@@ -11,8 +11,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS&color=458588)
 ![GitHub Stars](https://img.shields.io/github/stars/saeeedhany?style=flat&logo=github&label=Total%20Stars&color=458588)
 
+</div>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-458588?style=flat)
+![Assembly](https://img.shields.io/badge/Assembly%20(x86)-458588?style=flat)
+![Python](https://img.shields.io/badge/Python-458588?style=flat)
+![Bash](https://img.shields.io/badge/Bash-458588?style=flat)
+![Zsh](https://img.shields.io/badge/Zsh-458588?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-458588?style=flat)
+![HTML](https://img.shields.io/badge/HTML5-458588?style=flat)
+![CSS](https://img.shields.io/badge/CSS3-458588?style=flat)
+![Makefile](https://img.shields.io/badge/Makefile-458588?style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-458588?style=flat)
 
 </div>
+
 
 Hi, I'm **Saeed** (aka **[thecoolestone](https://saeeedhany.github.io/thecoolestone/)**) — a digital crafter who builds things from the ground up.
 
