@@ -58,4 +58,4 @@ I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 ## Long-Term Goals
 
 * Contribute to open-source projects like **[Linux](https://github.com/torvalds/linux)** And **[Vim](https://github.com/vim)** *(or **[Neovim](https://github.com/neovim)**, it doesn't matter actually)*.
-- Finish my hobby Operating System that named **[potatOS](https://github.com/saeeedhany/potatOS)**.
+- Finish my hobby Operating System that named ~*potatOS*~. **[vimOS](https://github.com/saeeedhany/vimos)** *(or just F making one)*
