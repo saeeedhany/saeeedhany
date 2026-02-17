@@ -9,23 +9,17 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saeeedhany&bg_color=0d1117&color=30363d&line=458588&point=458588&area=true&area_color=458588&border_color=30363d)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <div align="center">
-  
-![GitHub Stars](https://img.shields.io/github/stars/saeeedhany?style=flat&logo=github&label=Total%20Stars&color=458588)
 
-</div>
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-458588?style=flat)
+![C](https://img.shields.io/badge/C-458588?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly%20(x86)-458588?style=flat)
-![Python](https://img.shields.io/badge/Python-458588?style=flat)
-![Bash](https://img.shields.io/badge/Bash-458588?style=flat)
+![Python](https://img.shields.io/badge/Python-458588?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-458588?style=flat&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-458588?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-458588?style=flat)
-![HTML](https://img.shields.io/badge/HTML5-458588?style=flat)
-![CSS](https://img.shields.io/badge/CSS3-458588?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-458588?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-458588?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-458588?style=flat&logo=css3&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-458588?style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-458588?style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-458588?style=flat&logo=markdown&logoColor=white)
 
 </div>
 
