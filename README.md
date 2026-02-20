@@ -24,7 +24,7 @@
 </div>
 
 
-Hi, I'm **Saeed** (aka **[thecoolestone](https://saeeedhany.github.io/thecoolestone/)**) — a digital crafter who lives in **Mansoura/Egypt**, And also love to build things from the ground up.
+Hi, I'm **Saeed** (aka **[Pseudointellectual](https://saeeedhany.github.io/saeed/)**) — a digital crafter who lives in **Mansoura/Egypt**, And also love to build things from the ground up.
 
 I love understanding how systems work at their deepest levels, studying low-level concepts, and creating tools that enhance workflows or simply bring joy through craftsmanship.
 
