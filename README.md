@@ -14,7 +14,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly%20(x86)-458588?style=flat)
 ![Python](https://img.shields.io/badge/Python-458588?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-458588?style=flat&logo=gnubash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-458588?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-458588?style=flat&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-458588?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-458588?style=flat&logo=css3&logoColor=white)
