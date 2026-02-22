@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=458588&center=true&vCenter=true&width=600&lines=Digital+Crafter;Web+Developer;Systems-Oriented+Thinker;Building+From+First+Principles;I+also+use+arch+(btw);hehe+:D" />
 </p>-->
 
-[![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
+<!--[![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)-->
+
+[<img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt='Tech For Palestine' width="100%">](https://techforpalestine.org/learn-more)
 
 ---
 
