@@ -47,7 +47,7 @@ I also **[Write](https://saeeedhany.github.io/takallam/)** sometimes.
 
 **Side Pursuits**
 * Linux customization and system optimization
-* Teaching people how to code.
+* Talk & Write *(in general)* about thigns.
 
 ## Long-Term Goals
 
