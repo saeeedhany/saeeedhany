@@ -4,3 +4,5 @@ Hi, I'm *[Saeed](https://saeeedhany.github.io/Links/).*
 - *Interested in: OS, architecture, C, and simple web.*
 
 I sometimes *[Write](https://saeedz.vercel.app/)*.
+
+<img src="./assets/images/parchment/parchment.webp" width="100%" alt="parchment">
