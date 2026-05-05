@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/saeeedhany/parchment.nvim">
-    <img src="./assets/images/parchment/parchment.webp" width="100%" alt="parchment preview" />
+    <img src="./assets/images/parchment/parchment-minimal.webp" width="100%" alt="parchment preview" />
   </a>
 </p>
 
