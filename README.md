@@ -1,7 +1,8 @@
-**assalamu alaikum**, I'm *[Saeed](https://saeedz.vercel.app).*
-- *I build systems, CLI tools, and low-level stuff.*
-- *Interested in: OS, architecture, and simple web.*
+**assalamu alaikum**, I'm *[Saeed](https://saeedz.vercel.app).* 
 
-![leafmoes](https://count.getloli.com/get/@saeeedhany?theme=asoul)
+- *having fun figuring things out.*
+- *build systems, CLI tools, and low-level stuff.*
+- *Interested in: OS, architecture, and simple web.*
+- *latest project - [ase](https://github.com/saeeedhany/ase)*
 
 btw, most of my cooks end up *[here](https://github.com/DDumbying)*.
