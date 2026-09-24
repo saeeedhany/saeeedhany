@@ -1,4 +1,4 @@
-**assalamu alaikum**, I'm *[Saeed](https://saeedz.vercel.app).* 
+**assalamu alaikum**, I'm *[Saeed](https://saeeedhany.github.io).* 
 
 - *having fun figuring things out.*
 - *build systems, CLI tools, and low-level stuff.*
