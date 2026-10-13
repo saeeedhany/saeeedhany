@@ -1,4 +1,4 @@
-**assalamu alaikum**, I'm *[Saeed](https://saeeedhany.github.io).* 
+**assalamu alaikum**, I'm *[Saeed](https://saeed.cool).* 
 
 - *having fun figuring things out.* 
 - *build systems, CLI tools, and low-level stuff.*
