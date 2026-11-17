@@ -1,4 +1,4 @@
 - *having fun figuring things out.* ( ദ്ദി ˙ᗜ˙ )
 - *build systems, CLI tools, and low-level stuff.*
 - *Interested in: OS, architecture, and [simple web](https://thesimpleweb.vercel.app).*
-- *Check these* ↬ [𖡎](https://mnemo.saeed.cool) • [✎](https://ase.saeed.cool) • [🌏︎](https://saeed.cool) - *and my own [dots.](https://dots.saeed.cool)*
+- *Check these* ↬ [𖡎](https://mnemo.saeed.cool) • [✎](https://ase.saeed.cool) - *and my own [dots.](https://dots.saeed.cool)*
